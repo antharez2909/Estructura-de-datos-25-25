@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\bin\Debug\net8.0\Ejercicio1_ContarElementos.exe
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\bin\Debug\net8.0\Ejercicio1_ContarElementos.deps.json
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\bin\Debug\net8.0\Ejercicio1_ContarElementos.runtimeconfig.json
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\bin\Debug\net8.0\Ejercicio1_ContarElementos.dll
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\bin\Debug\net8.0\Ejercicio1_ContarElementos.pdb
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\Ejercicio1_ContarElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\Ejercicio1_ContarElementos.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\Ejercicio1_ContarElementos.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\Ejercicio1_ContarElementos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\Ejercicio1_ContarElementos.dll
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\refint\Ejercicio1_ContarElementos.dll
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\Ejercicio1_ContarElementos.pdb
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\Ejercicio1_ContarElementos.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\semana 6\Ejercicio1_ContarElementos\obj\Debug\net8.0\ref\Ejercicio1_ContarElementos.dll

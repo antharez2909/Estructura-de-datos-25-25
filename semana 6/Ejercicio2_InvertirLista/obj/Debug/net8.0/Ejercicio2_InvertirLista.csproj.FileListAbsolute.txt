@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\bin\Debug\net8.0\Ejercicio2_InvertirLista.exe
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\bin\Debug\net8.0\Ejercicio2_InvertirLista.deps.json
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\bin\Debug\net8.0\Ejercicio2_InvertirLista.runtimeconfig.json
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\bin\Debug\net8.0\Ejercicio2_InvertirLista.dll
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\bin\Debug\net8.0\Ejercicio2_InvertirLista.pdb
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\Ejercicio2_InvertirLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\Ejercicio2_InvertirLista.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\Ejercicio2_InvertirLista.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\Ejercicio2_InvertirLista.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\Ejercicio2_InvertirLista.dll
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\refint\Ejercicio2_InvertirLista.dll
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\Ejercicio2_InvertirLista.pdb
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\Ejercicio2_InvertirLista.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\semana 6\Ejercicio2_InvertirLista\obj\Debug\net8.0\ref\Ejercicio2_InvertirLista.dll
