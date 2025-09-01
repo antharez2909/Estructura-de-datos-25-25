@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\bin\Debug\net8.0\TraductorBasico.exe
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\bin\Debug\net8.0\TraductorBasico.deps.json
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\bin\Debug\net8.0\TraductorBasico.runtimeconfig.json
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\bin\Debug\net8.0\TraductorBasico.dll
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\bin\Debug\net8.0\TraductorBasico.pdb
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\TraductorBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\TraductorBasico.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\TraductorBasico.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\TraductorBasico.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\TraductorBasico.dll
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\refint\TraductorBasico.dll
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\TraductorBasico.pdb
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\TraductorBasico.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\semana 11\TraductorBasico\obj\Debug\net8.0\ref\TraductorBasico.dll
