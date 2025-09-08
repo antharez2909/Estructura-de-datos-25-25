@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\bin\Debug\net8.0\PremiacionDeportistas.exe
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\bin\Debug\net8.0\PremiacionDeportistas.deps.json
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\bin\Debug\net8.0\PremiacionDeportistas.runtimeconfig.json
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\bin\Debug\net8.0\PremiacionDeportistas.dll
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\bin\Debug\net8.0\PremiacionDeportistas.pdb
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\PremiacionDeportistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\PremiacionDeportistas.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\PremiacionDeportistas.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\PremiacionDeportistas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\PremiacionDeportistas.dll
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\refint\PremiacionDeportistas.dll
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\PremiacionDeportistas.pdb
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\PremiacionDeportistas.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\practico experimental 3\PremiacionDeportistas\obj\Debug\net8.0\ref\PremiacionDeportistas.dll
