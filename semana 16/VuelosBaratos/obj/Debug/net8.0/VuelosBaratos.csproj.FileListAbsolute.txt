@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\bin\Debug\net8.0\VuelosBaratos.exe
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\bin\Debug\net8.0\VuelosBaratos.deps.json
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\bin\Debug\net8.0\VuelosBaratos.runtimeconfig.json
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\bin\Debug\net8.0\VuelosBaratos.dll
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\bin\Debug\net8.0\VuelosBaratos.pdb
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\VuelosBaratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\VuelosBaratos.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\VuelosBaratos.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\VuelosBaratos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\VuelosBaratos.dll
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\refint\VuelosBaratos.dll
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\VuelosBaratos.pdb
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\VuelosBaratos.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\semana 16\VuelosBaratos\obj\Debug\net8.0\ref\VuelosBaratos.dll
